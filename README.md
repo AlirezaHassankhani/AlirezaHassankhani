@@ -22,19 +22,19 @@
 
 <div align="center">
 <a href="#">
-<img src="./images/facebook.png" />
+<img src="./facebook.png" />
 </a>
 &nbsp;
 <a href="#">
-<img src="./images/instagram.png" />
+<img src="./instagram.png" />
 </a>
 &nbsp;
 <a href="#">
-<img src="./images/telegram.png" />
+<img src="./telegram.png" />
 </a>
 &nbsp;
 <a href="#">
-<img src="./images/whatsapp.png" />
+<img src="./whatsapp.png" />
 </a>
 </div>
 
