@@ -2,6 +2,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:081C15,25:1B4332,50:2D6A4F,75:40916C,100:95D5B2&text=Alireza%20Hassankhani&section=header&reversal=false&textBg=false&fontColor=F8FAFC&fontAlign=50&animation=fadeIn&desc=Software%20Engineer%20|%20Web%20Developer&fontAlignY=36&descAlignY=58&fontSize=42&descSize=20" alt="header" />
 </div>
 
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=95D5B2&center=true&vCenter=true&width=900&lines=Building+modern+web+experiences;Writing+clean+%26+maintainable+code;Always+learning+something+new"
+    alt="Typing Animation"
+  />
+</div>
+
 
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif" width="35">
